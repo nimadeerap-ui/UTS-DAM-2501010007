@@ -1,0 +1,142 @@
+[
+  {
+    "sumber": "Dataset destinasi wisata KSPD NTB (CSV)",
+    "url": "https://data.ntbprov.go.id/dataset/a2fbd8bd-6b85-4ce8-b743-a36c78e9f59d/show",
+    "tanggal_akses": "2026-11-18T10:33:25",
+    "lisensi": "License Not Specified (tidak ditentukan di halaman dataset; level akses: Public)",
+    "metode": "unduh berkas",
+    "berkas": "data/raw/data_20261115155634-daftar-destinasi-wisata-berdasarkan-kawasan-strategis-pariwisata-daerah-kspd-provinsi-nusa-tenggara-barat.csv",
+    "ukuran_bytes": 73734,
+    "md5": "358dd8b2be8b073b32849f85da7f632a"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD ALAS UTAN DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.47709&longitude=117.07667&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:33:50",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_ALAS_UTAN_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 635,
+    "md5": "91b9f19c519c46727be10f36f365bda0"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD BATU HIJAU DODORINTI DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.69166&longitude=117.05587&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:33:52",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_BATU_HIJAU_DODORINTI_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 635,
+    "md5": "c8d3b2ff7fea74a422488809c6ecad87"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD HU’U DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.6831&longitude=118.40841&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:33:55",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_HU_U_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 630,
+    "md5": "4de9af227ae4258d863c3e5cb1d65714"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD KUTA - MANDALIKA DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.84355&longitude=116.26526&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:33:57",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_KUTA_MANDALIKA_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 635,
+    "md5": "d5e321ee334d57382f28ac9ea866783b"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD MATARAM METRO DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.58422&longitude=116.10181&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:33:59",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_MATARAM_METRO_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 631,
+    "md5": "c46ef005befd72eda3f126276a63019d"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD POTOTANO - MALUK DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.69015&longitude=116.81025&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:34:01",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_POTOTANO_MALUK_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 632,
+    "md5": "df82fcaa193d867b5da5881432484fdc"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD RASIMAS - SEMBALUN DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.43974&longitude=116.48398&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:34:03",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_RASIMAS_SEMBALUN_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 635,
+    "md5": "5ae1f0cd20471fd1813a31b38fd77644"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD SAMOTA (TELUK SALEH - MOYO – TAMBORA) DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.55463&longitude=117.63507&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:34:06",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_SAMOTA_TELUK_SALEH_MOYO_TAMBORA_DAN.json",
+    "ukuran_bytes": 627,
+    "md5": "d8aceae4faf92d9a74779b79aac94a2e"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD SENGGIGI, 3 GILI DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.35645&longitude=116.24166&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:34:08",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_SENGGIGI_3_GILI_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 636,
+    "md5": "f05368b262a38869e96757230ba81f72"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD TELUK BIMA DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.4592&longitude=118.71635&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:34:10",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_TELUK_BIMA_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 629,
+    "md5": "d06bf4b1b365a24e197c35edee305ae5"
+  },
+  {
+    "sumber": "Open-Meteo forecast - KSPD WAWORADA - SAPE DAN SEKITARNYA",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.58772&longitude=118.87968&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum&timezone=Asia%2FMakassar&forecast_days=7",
+    "tanggal_akses": "2026-11-18T10:34:12",
+    "lisensi": "Open-Meteo: data CC BY 4.0; API gratis untuk non-komersial",
+    "metode": "API publik (JSON)",
+    "berkas": "data/raw/openmeteo_KSPD_WAWORADA_SAPE_DAN_SEKITARNYA.json",
+    "ukuran_bytes": 631,
+    "md5": "c20e1df003c851aec7746f1baa6d3dba"
+  },
+  {
+    "sumber": "robots.txt id.wikipedia.org",
+    "url": "https://id.wikipedia.org/robots.txt",
+    "tanggal_akses": "2026-11-18T10:34:14",
+    "lisensi": "Dokumen aturan situs",
+    "metode": "HTTP GET",
+    "berkas": "data/raw/robots_id_wikipedia.txt",
+    "ukuran_bytes": 15801,
+    "md5": "8dd94bf3d01cbb25e0af4e64c0485433"
+  },
+  {
+    "sumber": "Wikipedia ID - Nusa Tenggara Barat",
+    "url": "https://id.wikipedia.org/wiki/Nusa_Tenggara_Barat",
+    "tanggal_akses": "2026-11-18T10:34:17",
+    "lisensi": "CC BY-SA 4.0 (teks Wikipedia)",
+    "metode": "web scraping halaman statis (pd.read_html)",
+    "berkas": "data/raw/wikipedia_nusa_tenggara_barat.html",
+    "ukuran_bytes": 462322,
+    "md5": "4b787d51e705c55977ed36865f34d118"
+  }
+]

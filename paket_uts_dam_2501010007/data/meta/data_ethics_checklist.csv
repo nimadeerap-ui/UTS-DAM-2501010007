@@ -1,0 +1,10 @@
+No,Butir,Status,Bukti
+1,Sumber data sah & terdokumentasi,Ya,Publisher: Dinas Pariwisata (Satu Data NTB); URL: https://data.ntbprov.go.id/dataset/a2fbd8bd-6b85-4ce8-b743-a36c78e9f59d/show; MD5 berkas: 358dd8b2be8b073b32849f85da7f632a
+2,Lisensi dicek & penggunaan sesuai lisensi,"Ya, dicek (lisensi tidak ditentukan)","Halaman dataset: License Not Specified (tidak ditentukan di halaman dataset; level akses: Public). Karena tidak ada lisensi eksplisit, data dipakai terbatas untuk keperluan akademik (UTS) dengan menyebut sumber"
+3,Ketentuan portal dicek,"Dicek, teks ketentuan tidak tersedia di portal","Tautan 'Ketentuan Pengguna' di footer portal sudah dicoba dibuka (15 Nov 2026), tetapi tidak menampilkan teks ketentuan (hanya muncul pop-up survei kepuasan). Halaman dataset: lisensi 'License Not Specified', level akses Public. Data dipakai hanya untuk keperluan akademik dengan menyebut sumber (Dinas Pariwisata, Satu Data NTB)."
+4,Tujuan penggunaan jelas (purpose limitation),Ya,Tujuan: tugas UTS Data Acquisition & Management; tidak untuk komersial atau profiling
+5,Tidak memuat PII langsung,Ya,Pemindaian regex email/telepon/NIK/medsos pada semua kolom teks: 0 temuan
+6,Quasi-identifier dinilai & diminimalkan,Ya,"Koordinat dan dusun/desa = titik wisata publik, bukan alamat individu; risiko re-identifikasi rendah"
+7,Minimisasi data (hanya yang perlu),Ya,API hanya meminta suhu dan curah hujan; scraping hanya satu tabel; tidak ada data personal dikumpulkan
+8,"Akses web sopan & patuh aturan (robots.txt, rate limit, User-Agent)",Ya (terbukti),"robots.txt id.wikipedia.org dicek (2026-11-18T10:34:14), can_fetch=True; timeout=20s, jeda=2.0s, retry<=4; bukti: data/meta/bukti_robots_check.json"
+9,Kredensial aman & integritas data terjaga,Ya,Tidak ada API key di notebook (Open-Meteo tanpa key); berkas raw read-only; MD5 tiap sumber dicatat di provenance
